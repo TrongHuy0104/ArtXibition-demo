@@ -188,7 +188,7 @@ a {
     font-size: 1.8rem;
     position: absolute;
     top: -150px;
-    left: 50%;
+    left: 40%;
     transform: translateX(-50%);
     animation: up-down 3s infinite;
     display: flex;

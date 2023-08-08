@@ -1,0 +1,66 @@
+/* Mobile */
+@media (max-width: 768px) {
+    .pre-header {
+        display: none;
+    }
+
+    .nav {
+        display: none;
+    }
+
+    .counter {
+        justify-content: space-around;
+    }
+
+    .hero .title {
+        line-height: 1.5;
+    }
+
+    .gallery-item {
+        width: 100%;
+    }
+
+    .chevron-right,
+    .chevron-left {
+        display: none;
+    }
+
+    .amazing-venues .right-content {
+        margin-top: 50px;
+    }
+
+    .event-item {
+        margin-top: 30px;
+    }
+
+    .subscribe {
+        text-align: center;
+    }
+
+    .subscribe .heading {
+        margin-bottom: 20px;
+    }
+
+    .subscribe input {
+        text-align: center;
+    }
+
+    .subscribe .cta-btn {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .footer .footer-col {
+        text-align: center;
+    }
+
+    .footer-col .desc {
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .footer-col {
+        margin-top: 30px;
+    }
+}
